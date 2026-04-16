@@ -1,1 +1,6 @@
- This is the new feature devoloped
+# This line was edited in dev branch
+  This is the new feature devoloped
+# This line was added in feature branch
+  This is the new feature which we want to keep in the final application
+
+   Decided to keep them both
