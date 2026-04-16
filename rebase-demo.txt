@@ -1,1 +1,6 @@
 Main branch rebase test
+
+Feature branch rebase test
+
+
+Resolved rebase too
